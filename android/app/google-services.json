@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909206691880",
+    "project_id": "girisim-appx",
+    "storage_bucket": "girisim-appx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909206691880:android:649461237c9c44baebd51d",
+        "android_client_info": {
+          "package_name": "com.polimat.girisim.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDysY0iiYoP7LkIAoSK0iSB0aZhl6opkIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
